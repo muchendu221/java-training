@@ -7,6 +7,7 @@
   <groupId>com.example</groupId>
   <artifactId>java-training</artifactId>
   <version>1.0.0</version>
+  <relativePath>/Users/bonifacemuchendu/Documents/javatraining/java-se-training/java-training</relativePath>
 
   <name>java-training</name>
   <!-- FIXME change it to the project's website -->
